@@ -8,7 +8,6 @@ package DataStructures;
 *
 * @param <T>
 *            The type of data element contained in the node.
-* @author Mark Allen Weiss (with modifications by John Lewis)
 * @author komelmercahnt
 * @version 2015.11.17 (modified)
 */
